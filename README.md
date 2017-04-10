@@ -1,2 +1,62 @@
 # StackTextView
 A text view that can dynamically adapt to the content size
+
+[![Language Swift 3.1](https://img.shields.io/badge/Language-Swift%203.1-orange.svg?style=flat)](https://swift.org)
+[![CocoaPods](https://img.shields.io/cocoapods/v/StackTextView.svg)](#cocoapods)
+[![License](https://img.shields.io/github/license/kf99916/StackTextView.svg)](LICENSE)
+
+![StackTextView](/screenshots/stackTextView.gif "StackTextView")
+
+## Requirements
+
+- iOS 8.0 or higher
+- Swift 3.0 or higher
+
+## Installation
+
+```ruby
+pod "StackTextView"
+```
+
+## Usage
+
+### Import
+
+```swift
+import StackTextView
+```
+
+### StackTextView
+
+The text view that can dynamically adapt to the content size.  
+`var arranged​Subviews: [UIView]` the list of views arranged by the stack text view.   
+`var spacing: CGFloat` the distance in points between the adjacent edges of the stack view’s arranged views. (default `0.0`) 
+
+#### Functions
+
+```swift
+func addArrangedSubview(UIView)
+```
+Adds a view to the end of the arranged​Subviews array.
+
+```swift
+func insert​Arranged​Subview(UIView, at:​ Int)
+```
+Adds the provided view to the array of arranged subviews at the specified index.
+
+```swift
+func remove​Arranged​Subview(UIView)
+```
+Removes the provided view from the stack’s array of arranged subviews. 
+
+## Demo
+
+StackTextViewDemo is a simple demo app which shows the usage of StackTextView.
+
+## Author
+
+Zheng-Xiang Ke, kf99916@gmail.com
+
+## License
+
+StackTextView is available under the MIT license. See the LICENSE file for more info.
