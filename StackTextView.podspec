@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'StackTextView is a text view that can dynamically adapt to the content size.'
+  s.description      = 'StackTextView is a text view that can dynamically adapt to the content size. All UIView can be stacked in the text view to implement the Facebook-like add-post UI.'
 
   s.homepage         = 'https://github.com/kf99916/StackTextView'
   s.screenshots      = 'https://raw.githubusercontent.com/kf99916/StackTextView/master/screenshots/stackTextView.gif'

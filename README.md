@@ -1,5 +1,5 @@
 # StackTextView
-A text view that can dynamically adapt to the content size
+A text view that can dynamically adapt to the content size. All `UIView` can be stacked in the text view to implement the Facebook-like add-post UI.
 
 [![Language Swift 3.1](https://img.shields.io/badge/Language-Swift%203.1-orange.svg?style=flat)](https://swift.org)
 [![CocoaPods](https://img.shields.io/cocoapods/v/StackTextView.svg)](#cocoapods)
