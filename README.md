@@ -5,6 +5,8 @@ A text view that can dynamically adapt to the content size. All `UIView` can be 
 [![CocoaPods](https://img.shields.io/cocoapods/v/StackTextView.svg)](#cocoapods)
 [![License](https://img.shields.io/github/license/kf99916/StackTextView.svg)](LICENSE)
 
+The following demo is that `UIImageView` and `UIButton` are stacked in the text view.
+
 ![StackTextView](/screenshots/stackTextView.gif "StackTextView")
 
 ## Requirements
