@@ -37,15 +37,15 @@ The text view that can dynamically adapt to the content size.
 ```swift
 func addArrangedSubview(UIView)
 ```
-Adds a view to the end of the arranged​Subviews array.
+Adds a view to the end of the arrangedSubviews array.
 
 ```swift
-func insert​Arranged​Subview(UIView, at:​ Int)
+func insertArrangedSubview(UIView, at: Int)
 ```
 Adds the provided view to the array of arranged subviews at the specified index.
 
 ```swift
-func remove​Arranged​Subview(UIView)
+func removeArrangedSubview(UIView)
 ```
 Removes the provided view from the stack’s array of arranged subviews. 
 
