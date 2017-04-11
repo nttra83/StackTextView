@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'StackTextView'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A text view that can dynamically adapt to the content size'
 
 # This description is used to generate tags and improve search results.
