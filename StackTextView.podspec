@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'StackTextView is a text view that can dynamically adapt to the content size.'
 
-  s.homepage         = 'hhttps://github.com/kf99916/StackTextView'
+  s.homepage         = 'https://github.com/kf99916/StackTextView'
   s.screenshots      = 'https://raw.githubusercontent.com/kf99916/StackTextView/master/screenshots/stackTextView.gif'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Zheng-Xiang Ke' => 'kf99916@gmail.com' }
