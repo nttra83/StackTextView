@@ -1,9 +1,13 @@
 # StackTextView
 A text view that can dynamically adapt to the content size. All `UIView` can be stacked in the text view to implement the Facebook-like add-post UI.
 
-[![Language Swift 3.1](https://img.shields.io/badge/Language-Swift%203.1-orange.svg?style=flat)](https://swift.org)
-[![CocoaPods](https://img.shields.io/cocoapods/v/StackTextView.svg)](#cocoapods)
-[![License](https://img.shields.io/github/license/kf99916/StackTextView.svg)](LICENSE)
+
+[![CocoaPods](https://img.shields.io/cocoapods/dt/StackTextView.svg)](https://cocoapods.org/pods/StackTextView)
+[![GitHub stars](https://img.shields.io/github/stars/kf99916/StackTextView.svg)](https://github.com/kf99916/StackTextView/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/kf99916/StackTextView.svg)](https://github.com/kf99916/StackTextView/network)
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/StackTextView.svg)](https://cocoapods.org/pods/StackTextView)
+[![Platform](https://img.shields.io/cocoapods/p/StackTextView.svg)](https://github.com/kf99916/StackTextView)
+[![GitHub license](https://img.shields.io/github/license/kf99916/StackTextView.svg)](https://github.com/kf99916/StackTextView/blob/master/LICENSE)
 
 The following demo is that `UIImageView` and `UIButton` are stacked in the text view.
 
